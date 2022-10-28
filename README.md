@@ -116,7 +116,7 @@ Quick Access to all required files for this analysis:
 
 - [All five CSV files, including the backers.csv file in the Resources Folder](https://github.com/Kcav18/Crowdfunding-ETL/tree/main/Resources)
 
-- [The ERD logical diagram, which includes the backers table saved as crowdfunding_db_relationships](https://github.com/Kcav18/Crowdfunding-ETL/tree/main/Resources)
+- [The ERD logical diagram, which includes the backers table saved as crowdfunding_db_relationships](https://github.com/Kcav18/Crowdfunding-ETL/blob/main/crowdfunding_db_relationships.png)
 
 - [The database schema, which includes the backers table saved as crowdfunding_db_schema.sql](https://github.com/Kcav18/Crowdfunding-ETL/blob/main/crowdfunding_db_schema.sql)
 
